@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 docker.elastic.co/eck/eck-operator:2.10.0
 traefik/whoami:v1.10
+bogeit/nfs-subdir-external-provisioner:v4.0.2
